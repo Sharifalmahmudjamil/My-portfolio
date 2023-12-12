@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "skill": "HTML",
+      "image":"https://i.ibb.co/C0XG9pm/html-5-2-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "skill": "CSS",
+      "image":"https://i.ibb.co/Lt4cVRS/css-4-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "skill": "Tailwind",
+      "image":"https://i.ibb.co/LYCxGh4/png-transparent-tailwind-css-hd-logo-thumbnail.png"
+    },
+    {
+      "id": 4,
+      "skill": "JavaScript",
+      "image":"https://i.ibb.co/THkcz1h/Javascript-badge-svg.png"
+    },
+    {
+      "id": 5,
+      "skill": "React.js",
+      "image":"https://i.ibb.co/D575gtC/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500-6532453515281223424611.jpg"
+    },
+   
+    {
+      "id": 6,
+      "skill": "Node.js",
+      "image":"https://i.ibb.co/Jnb2LXg/node-js-javascript-web-application-express-js-computer-software-others.jpg"
+    }
+    
+  ]
