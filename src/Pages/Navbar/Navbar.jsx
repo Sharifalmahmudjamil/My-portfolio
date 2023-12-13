@@ -17,6 +17,18 @@ const links= [
         id:3,
         link:'skill'
     },
+    {
+        id:4,
+        link:'education'
+    },
+    {
+        id:5,
+        link:'projects'
+    },
+    {
+        id:6,
+        link:'contact'
+    },
 ]
     return (
         <div>

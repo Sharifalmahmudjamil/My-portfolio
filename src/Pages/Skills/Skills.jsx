@@ -1,9 +1,11 @@
 
+
 const Skills = () => {
     
     return (
+        
         <div name='skill' className="bg-base-200 overflow-x-hidden">
-            <h1 className="text-5xl font-medium text-center ">My Skills</h1>
+            <h1 className="text-5xl font-medium text-center mt-5 ">My Skills</h1>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-5">
                 <div className="card w-52 bg-base-200 shadow-lg shadow-orange-600/100 mx-16">
                     <figure className="px-10 pt-10">
@@ -39,6 +41,7 @@ const Skills = () => {
 
             </div>
         </div>
+        
     );
 };
 
