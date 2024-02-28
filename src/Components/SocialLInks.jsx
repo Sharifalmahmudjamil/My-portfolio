@@ -46,13 +46,13 @@ const SocialLInks = () => {
                 Resume <BsFillPersonLinesFill  size={30}></BsFillPersonLinesFill> 
                 </> 
             ),
-            href:'../../public/Sharif Al Mahmud Jamil.pdf',
+            href:'/Sharif Al Mahmud Jamil.pdf',
             style:'rounded-br-md',
             download:true
         },
     ]
     return (
-        <div className="flex flex-col top-[35%] left-0 fixed">
+        <div className="flex flex-col top-[35%] left-0 ">
             <ul>
                 {
                     links.map(({id,child,href,style,download})=>(
